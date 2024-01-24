@@ -1,0 +1,46 @@
+
+Pinging 10.17.31.229 with 32 bytes of data:
+Reply from 10.17.31.230: Destination host unreachable.
+
+Ping statistics for 10.17.31.229:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+
+Pinging 10.17.31.228 with 32 bytes of data:
+Reply from 10.17.31.230: Destination host unreachable.
+
+Ping statistics for 10.17.31.228:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+
+Pinging 10.17.31.227 with 32 bytes of data:
+Reply from 10.17.31.230: Destination host unreachable.
+
+Ping statistics for 10.17.31.227:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+
+Pinging 10.17.31.226 with 32 bytes of data:
+Reply from 10.17.31.230: Destination host unreachable.
+
+Ping statistics for 10.17.31.226:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+
+Pinging 10.17.31.225 with 32 bytes of data:
+Reply from 10.17.31.230: Destination host unreachable.
+
+Ping statistics for 10.17.31.225:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+
+Pinging 10.17.31.224 with 32 bytes of data:
+Reply from 10.17.31.224: bytes=32 time=20ms TTL=64
+
+Ping statistics for 10.17.31.224:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 20ms, Maximum = 20ms, Average = 20ms
+
+Pinging 10.17.31.223 with 32 bytes of data:
+Reply from 10.17.31.230: Destination host unreachable.
+
+Ping statistics for 10.17.31.223:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+
+Pinging 10.17.31.222 with 32 bytes of data:
